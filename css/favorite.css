@@ -1,0 +1,103 @@
+.favorite {
+    background: url("/img/rectangle_1_6.jpg");
+}
+
+.headerName {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerName__text {
+    margin-top: 25px;
+}
+
+.activebox {
+    color:rgba(255, 255, 255, 0.3);
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    transition: 1s;
+}
+
+.activebox:hover {
+    color: #ffffff;
+}
+
+.color {
+    color:rgba(255, 255, 255, 0.8);
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.headerName-navigation-row {
+    display: flex;
+    justify-content: space-between;
+    width: 589px;
+    margin-top: 45px;
+}
+
+.link-nav {
+    color: rgba(255, 255, 255, 0.55);
+    display: flex;
+    justify-content: space-between;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 700;
+    transition: 1s;
+}
+
+.link-nav:hover {
+    color: #ffffff;
+}
+
+.title {
+    text-align: center;
+    width: 920px;
+    margin: auto;
+}
+
+.title_text {
+    margin-top: 200px;
+    font-family: Roboto;
+    font-size: 65px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.subtitle {
+    text-align: center;
+    width: 900px;
+    margin: auto;
+}
+
+.subtitle_text {
+    margin-top: 20px;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.header-button {
+    text-align: center;
+    padding-bottom: 100px;
+    margin-top: 90px;    
+}
+
+.header-button__FindOutMore {
+    color: #ffffff;
+    background-color: #e84545;
+    width: 135px;
+    padding: 18px 46px;
+    margin: auto;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    transition: 1s;
+}
+
+.header-button__FindOutMore:hover {
+    background-color: #eb0000;
+}
