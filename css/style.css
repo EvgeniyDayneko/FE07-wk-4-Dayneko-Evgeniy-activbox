@@ -1,4 +1,10 @@
 @import url("/css/favorite.css");
+@import url("/css/iconsinform.css");
+@import url("/css/portfolio.css");
+@import url("/css/person.css");
+@import url('/css/download.css');
+@import url('/css/sharewith.css');
+@import url('/css/futer.css');
 
 *{
     margin: 0%;

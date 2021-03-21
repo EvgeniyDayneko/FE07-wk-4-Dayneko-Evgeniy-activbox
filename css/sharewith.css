@@ -1,0 +1,83 @@
+.sharewith {
+    background: url('/img/rectangle_8_176.jpg');
+    border-bottom: 3px solid orange;
+}
+
+.fon-row {
+    display: flex;
+    margin-bottom: 85px;
+  }
+
+  .location {
+    margin-right: 346px;
+  }
+
+  .share {
+    margin-right: 195px;
+}
+
+.location_text {
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 71px;
+}
+
+.location-nesting_text {
+    opacity: 0.5;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #ffffff;
+    width: 146px;
+    text-align: center;
+    margin-top: 22px;
+}
+
+.about-nesting_text {
+    opacity: 0.5;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #ffffff;
+    width: 320px;
+    text-align: center;
+    margin-top: 22px;
+}
+
+.share_icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px; 
+}
+
+.share-facebook__icons {
+    border: solid 2px #ffffff;
+    padding: 14px 20px;
+    margin-right: 10px;
+    transition: 1s;
+}
+
+.share-twitter__icons {
+    border: solid 2px #ffffff;
+    padding: 14px 16px;
+    margin-right: 10px;
+    transition: 1s;
+}
+
+.share-instagram__icons {
+    border: solid 2px #ffffff;
+    padding: 14px 17px;
+    margin-right: 4px;
+    transition: 1s;
+}
+
+.link-share-icons {
+    color: #ffffff;
+}

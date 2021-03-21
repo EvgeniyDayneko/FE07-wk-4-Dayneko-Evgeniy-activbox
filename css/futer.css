@@ -1,0 +1,30 @@
+.futer {
+    background: url('/img/rectangle_8_copy_507.png');
+    padding-top: 29px;
+}
+
+.futer-title_text {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #808080;
+}
+
+.futer-subtitle__text {
+    text-align: center;
+    margin-top: 4px;
+    padding-bottom: 29px;
+}
+
+.madewith {
+    color: #808080;
+}
+.red-color {
+    font-family: Webdings;
+    color: #e42c2c;
+}
+.white-color {
+    color: #ffffff;
+}

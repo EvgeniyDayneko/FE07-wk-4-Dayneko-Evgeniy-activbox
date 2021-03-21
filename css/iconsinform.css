@@ -1,0 +1,34 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1070px;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 47px;
+    margin-bottom: 124px;
+}
+
+.title-column_text {
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #2d3033;
+    text-align: center;
+    margin-top: 34px;
+}
+
+.subtitle-column_text {
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6c7279;
+    width: 300px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.icons {
+    text-align: center;
+    margin-top: 74px;
+}

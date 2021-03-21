@@ -1,0 +1,74 @@
+.person-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 101px;
+}
+
+.name_text {
+    margin-top: 30px;
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 400;
+    color: #2d3033;
+}
+
+.position_text {
+    margin-top: 16px;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #e84545;
+}
+
+.description_text {
+    width: 265px;
+    margin-top: 29px;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #6c7279;
+}
+
+.icons-person {
+    display: flex;
+    justify-content: left;
+    margin-top: 31px;
+    margin-bottom: 101px;
+}
+
+.facebook__icons {
+    border: solid 2px grey;
+    padding: 11px 16px;
+    margin-right: 4px;
+    transition: 1s;
+}
+
+.twitter__icons {
+    border: solid 2px grey;
+    padding: 10px 13px;
+    margin-right: 4px;
+    transition: 1s;
+}
+
+.instagram__icons {
+    border: solid 2px grey;
+    padding: 12px 12px;
+    margin-right: 4px;
+    transition: 1s;
+}
+
+.link-icons {
+    color: grey;
+}
+
+.link-icons:hover {
+    color: rgb(61, 61, 61);
+}
+
+
+
+
+
